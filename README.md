@@ -25,7 +25,6 @@
 
 - 🐍 Enhancing my Python scripting skills.
 
-- Exploring ethical hacking and cybersecurity tools.
 
 
 ###
