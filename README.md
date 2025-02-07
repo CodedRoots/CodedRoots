@@ -21,10 +21,9 @@
 
 🚀 What I'm Working On
 
-- 🔒 Preparing for CompTIA Security+.
-
 - 🐍 Enhancing my Python scripting skills.
-
+- 
+- 🔒 Preparing for CompTIA Security+.
 
 
 ###
