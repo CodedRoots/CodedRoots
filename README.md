@@ -22,7 +22,9 @@
 🚀 What I'm Working On
 
 - 🐍 Enhancing my Python scripting skills.
-- 
+
+- 🖥️ Exploring cybersecurity paths through TryHackMe.
+
 - 🔒 Preparing for CompTIA Security+.
 
 
